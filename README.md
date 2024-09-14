@@ -58,22 +58,22 @@ model_training_predictor.py
 ### Main View
 There is a prediction interface powered by Tkinter that provides the main functions for analysis and prediction. Here is the preview of GUI.
 
-![image](https://github.com/Dorislwk/Diabetes_predictor/blob/main/Predictor_interface.png)
+![image](https://github.com/Dorislwk/Diabetes_Predictor/blob/main/Photo/Predictor_interface.png)
 
-![image](https://github.com/Dorislwk/Diabetes_predictor/blob/main/question_example.png)
+![image](https://github.com/Dorislwk/Diabetes_Predictor/blob/main/Photo/question_example.png)
 
 There are total 21 questions and should be filled in by numbers.
 
 
-![image](https://github.com/Dorislwk/Diabetes_predictor/blob/main/result_message.png)
+![image](https://github.com/Dorislwk/Diabetes_Predictor/blob/main/Photo/result_message.png)
 
 
-![image](https://github.com/Dorislwk/Diabetes_predictor/blob/main/disclaimer.png)
+![image](https://github.com/Dorislwk/Diabetes_Predictor/blob/main/Photo/disclaimer.png)
 
 ### Database
-![image](https://github.com/Dorislwk/Diabetes_predictor/blob/main/database_firsthalf.png)
+![image](https://github.com/Dorislwk/Diabetes_Predictor/blob/main/Photo/database_firsthalf.png)
 
-![image](https://github.com/Dorislwk/Diabetes_predictor/blob/main/database_secondhalf.png)
+![image](https://github.com/Dorislwk/Diabetes_Predictor/blob/main/Photo/database_secondhalf.png)
 
 ## 8. Acknowledgments 📊
 -**Data Sources** : Diabetes analysis and prediction dataset is from https://www.kaggle.com/code/rahul713/diabetes-data-analysis# Diabetes_predictor
