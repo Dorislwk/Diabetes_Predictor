@@ -30,9 +30,9 @@ The diabetes predictor is an informational tool for analyzing various demographi
 ## 5. Files and Usage 🔍
 - diabetes_balanced_patients.csv: A combined dataset for analysis, training, and testing.
 
-- diabetes_correlation_analysis.py: Handles data cleaning and processing steps and function for analysising of diabetes.
+- diabetes_correlation_analysis.py: Handles data cleaning and processing steps and functions for analyzing diabetes
 
-- model_training_predictor.py: Contains functions for preparing data for training the logistic regression mode, visualizing analysis, predictor GUI and connecting to SQLite.
+- model_training_predictor.py: Contains functions for preparing data for training the logistic regression model, visualizing analysis, predictor GUI and connecting to SQLite.
 
 ## 6. Getting Started 🧰
 1. Setup: Ensure you have the required libraries installed. You can install them using pip:
