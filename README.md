@@ -76,5 +76,5 @@ There are total 21 questions and should be filled in by numbers.
 ![image](https://github.com/Dorislwk/Diabetes_Predictor/blob/main/Photo/database_secondhalf.png)
 
 ## 8. Acknowledgments 📊
--**Data Sources** : Diabetes analysis and prediction dataset is from https://www.kaggle.com/code/rahul713/diabetes-data-analysis# Diabetes_predictor
+-**Data Sources** : Diabetes analysis and prediction dataset is from https://www.kaggle.com/code/rahul713/diabetes-data-analysis#Diabetes_predictor
 
