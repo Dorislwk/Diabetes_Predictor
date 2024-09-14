@@ -78,4 +78,3 @@ There are total 21 questions and should be filled in by numbers.
 ## 8. Acknowledgments 📊
 -**Data Sources** : Diabetes analysis and prediction dataset is from https://www.kaggle.com/code/rahul713/diabetes-data-analysis# Diabetes_predictor
 
-# Diabetes_Predictor
